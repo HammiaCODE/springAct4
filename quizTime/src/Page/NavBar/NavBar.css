@@ -1,0 +1,26 @@
+header {
+  overflow: hidden;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  background-color: #ce9855;
+}
+
+.hStyle {
+    color: #542e07;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 7px 8px;
+    text-decoration: none;
+}
+
+.pStyle {
+    color: #542e07;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 7px 8px;
+    text-decoration: none;
+}
+
+.pStyle:hover {
+  background-color: #ae1c1c;
+  color:#ce9855
+}
